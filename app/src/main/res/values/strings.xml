@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CA2</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="first_name">First Name</string>
+    <string name="name">Name: </string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email:</string>
+    <string name="mail">abc@gmail.com</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="password">Password: </string>
+    <string name="abc">abc</string>
+    <string name="i_accept_terms_of_use">I accept terms of use</string>
+    <string name="submit">Submit</string>
+</resources>
